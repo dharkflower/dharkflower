@@ -1,1 +1,1 @@
-I am a PHP developer/musician: lover of Symfony/Drupal and Node.js. I have Angular, Stimulus and React/Native experience. I am learning shell scripting and supercomputing. I am a Drupal 7 Grandmaster, and can't wait to try Drupal 10.
+I am a PHP developer/musician: lover of Symfony/Drupal and Node.js. I have Angular, Stimulus and React/Native experience. I am learning shell scripting and supercomputing. I am a Drupal 7 Grandmaster, focused on Drupal 10 long term.
